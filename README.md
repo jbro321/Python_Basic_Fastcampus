@@ -60,6 +60,5 @@
 
 #### 13. 프로젝트
 
-   - [section13_1.py](./Python_Basic_Fastcampus/section13_1.py) "타이핑 게임 제작, 기본 완성-1"
-   - [section13_2.py](./Python_Basic_Fastcampus/section13_2.py) "타이핑 게임 제작, 기본 완성-2"
-   - [section13_3.py](./Python_Basic_Fastcampus/section13_3.py) "타이핑 게임 제작, 효과음 적용, DB 연동"
+   - [section13_1.py](./Python_Basic_Fastcampus/section13_1.py) "타이핑 게임 제작, 기본 완성"
+   - [section13_2.py](./Python_Basic_Fastcampus/section13_3.py) "타이핑 게임 제작, 효과음 적용, DB 연동"

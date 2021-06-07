@@ -1,7 +1,7 @@
 # Python_Basic_Fastcampus
 
 1. 준비
-   [section01.py](./Python_Basic_Fastcampus/section01.py) "개발 환경 설정"
+   - [section01.py](./Python_Basic_Fastcampus/section01.py) "개발 환경 설정"
 
 2. 기초
 
